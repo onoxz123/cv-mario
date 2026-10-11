@@ -36,12 +36,11 @@ h2 {
 
 /* FOTO PROFIL */
 .foto-profil {
-    width: 150px;
-    height: 150px;
+    width: 90px !important;
+    height: 90px !important;
+    max-width: 90px !important;
     object-fit: cover;
-    border: 4px solid #20C9B0;
-    padding: 3px;
-    border-radius: 12px;
+    box-sizing: border-box;
 }
 
 /* TABEL MATA KULIAH */
