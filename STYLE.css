@@ -38,8 +38,8 @@ h2 {
 
 /* ===== FOTO PROFIL ===== */
 img.foto-profil {
-    width: 240px !important;
-    max-width: 140% !important;
+    width: 220px !important;
+    max-width: 100% !important;
     height: auto !important;
     display: block;
     border: 4px solid #7651A8;
